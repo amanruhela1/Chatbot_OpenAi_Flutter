@@ -1,1 +1,1 @@
-const apikey = "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";
+const apikey = "Paste Your API Key Here";
