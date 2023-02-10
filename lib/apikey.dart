@@ -1,0 +1,1 @@
+const apikey = "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";
